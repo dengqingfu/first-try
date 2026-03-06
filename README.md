@@ -2,5 +2,5 @@
 
 \# first-try
 
-\- ex01: 包含 HelloWorld 程序
+\- ex01: 包含 Helloworld 程序，支持键盘输入
 
